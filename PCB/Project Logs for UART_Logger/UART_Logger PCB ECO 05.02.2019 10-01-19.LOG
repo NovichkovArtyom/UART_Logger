@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC9_1 New Net Name=OSC_P
+Change Net Name : Old Net Name=NetC10_1 New Net Name=OSC_N
+Added Differential Pair: Name=OSC
+Added Member To Class: ClassName=UART_Logger Member=Component R11 R0402-10êÎì-5%
+Added Room: Name=UART_Logger

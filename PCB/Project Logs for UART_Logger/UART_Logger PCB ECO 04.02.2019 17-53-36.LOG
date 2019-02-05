@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetR1_1 Pin=U1-52
+Added Pin To Net: NetName=NetR1_1 Pin=X1-1
+Added Member To Class: ClassName=UART_Logger Member=Component R9 R0402-1êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R10 R0402-10êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R11 R0402-10êÎì-5%

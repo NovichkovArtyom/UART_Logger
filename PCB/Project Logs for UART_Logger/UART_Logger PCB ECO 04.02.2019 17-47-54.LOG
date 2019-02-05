@@ -1,0 +1,67 @@
+Change Component Designator: OldDesignator=R9 NewDesignator=R18
+Change Component Designator: OldDesignator=R10 NewDesignator=R19
+Change Component Designator: OldDesignator=R11 NewDesignator=R20
+Added Component: Designator=R9(R0402_min)
+Added Component: Designator=R10(R0402_min)
+Added Component: Designator=R11(R0402_min)
+Added Component: Designator=R13(R0603_HD)
+Added Component: Designator=R14(R0603_HD)
+Added Component: Designator=R15(R0402_min)
+Added Component: Designator=R16(R0402_min)
+Added Component: Designator=R17(R0402_min)
+Added Component: Designator=X4(pls2-3)
+Added Component: Designator=X5(PLS-06)
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetC1_2 Pin=R16-2
+Added Pin To Net: NetName=NetR3_2 Pin=R17-1
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=X4-3
+Added Pin To Net: NetName=IN Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR20_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=X5-6
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-58
+Added Pin To Net: NetName=NetR10_2 Pin=X5-5
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-59
+Added Pin To Net: NetName=NetR11_1 Pin=X5-4
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U1-29
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=X4-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-30
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=X4-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-1
+Added Pin To Net: NetName=NetR15_1 Pin=U1-46
+Added Pin To Net: NetName=NetR15_1 Pin=VD2-6
+Added Net: Name=NetR15_1
+Added Member To Class: ClassName=UART_Logger Member=Component R13 R0603-10Îì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R14 R0603-10Îì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R15 R0402-39êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R16 R0402-24êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R17 R0402-1êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R18 R0402-1êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R19 R0402-1êÎì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component R20 R0603-10Îì-5%
+Added Member To Class: ClassName=UART_Logger Member=Component X4 n/m
+Added Member To Class: ClassName=UART_Logger Member=Component X5 n/m PLS-6
